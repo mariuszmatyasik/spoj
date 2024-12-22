@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "spoj.cttc/1.0.0": {
+        "runtime": {
+          "spoj.cttc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "spoj.cttc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

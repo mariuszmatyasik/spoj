@@ -1,0 +1,14 @@
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/bin/Debug/net8.0/spoj.cttc
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/bin/Debug/net8.0/spoj.cttc.deps.json
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/bin/Debug/net8.0/spoj.cttc.runtimeconfig.json
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/bin/Debug/net8.0/spoj.cttc.dll
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/bin/Debug/net8.0/spoj.cttc.pdb
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/obj/Debug/net8.0/spoj.cttc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/obj/Debug/net8.0/spoj.cttc.AssemblyInfoInputs.cache
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/obj/Debug/net8.0/spoj.cttc.AssemblyInfo.cs
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/obj/Debug/net8.0/spoj.cttc.csproj.CoreCompileInputs.cache
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/obj/Debug/net8.0/spoj.cttc.dll
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/obj/Debug/net8.0/refint/spoj.cttc.dll
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/obj/Debug/net8.0/spoj.cttc.pdb
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/obj/Debug/net8.0/spoj.cttc.genruntimeconfig.cache
+/Users/mariuszmatyasik/RiderProjects/spoj/spoj.cttc/obj/Debug/net8.0/ref/spoj.cttc.dll
