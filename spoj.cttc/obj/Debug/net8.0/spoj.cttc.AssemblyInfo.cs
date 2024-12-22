@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("spoj.cttc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f76aafffe096111b79b0a450ecb83a130fc740a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("spoj.cttc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("spoj.cttc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
