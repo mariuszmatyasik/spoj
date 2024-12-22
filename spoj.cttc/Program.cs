@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+// 
 public class Program
 {
     const int S = 1 << 10;
