@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spoj.primes", "spoj.primes\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spoj.divisors", "spoj.divisors\spoj.divisors.csproj", "{4A49F5EF-BA5B-41E4-8E1D-A8C7B45362F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spoj.mul", "spoj.mul\spoj.mul.csproj", "{9BBDF348-2E7B-4057-B9F5-4BECF8191E86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{4A49F5EF-BA5B-41E4-8E1D-A8C7B45362F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A49F5EF-BA5B-41E4-8E1D-A8C7B45362F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A49F5EF-BA5B-41E4-8E1D-A8C7B45362F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BBDF348-2E7B-4057-B9F5-4BECF8191E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBDF348-2E7B-4057-B9F5-4BECF8191E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBDF348-2E7B-4057-B9F5-4BECF8191E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBDF348-2E7B-4057-B9F5-4BECF8191E86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
