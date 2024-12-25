@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spoj.divisors", "spoj.divis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spoj.mul", "spoj.mul\spoj.mul.csproj", "{9BBDF348-2E7B-4057-B9F5-4BECF8191E86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spoj.FCTRL2", "spoj.FCTRL2\spoj.FCTRL2.csproj", "{A135A513-27ED-442B-B962-19F4F1E79E0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{9BBDF348-2E7B-4057-B9F5-4BECF8191E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BBDF348-2E7B-4057-B9F5-4BECF8191E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BBDF348-2E7B-4057-B9F5-4BECF8191E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A135A513-27ED-442B-B962-19F4F1E79E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A135A513-27ED-442B-B962-19F4F1E79E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A135A513-27ED-442B-B962-19F4F1E79E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A135A513-27ED-442B-B962-19F4F1E79E0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
